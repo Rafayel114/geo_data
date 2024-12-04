@@ -8,8 +8,8 @@
 #### 1. Клонирование репозитория
 
 ```sh
-git clone https://your-repository-url.git
-cd geo_data_project
+git clone https://github.com/Rafayel114/geo_data.git
+cd geo_data
 ```
 
 #### 2. Настройка окружения
